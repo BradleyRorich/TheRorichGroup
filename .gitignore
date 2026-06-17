@@ -1,0 +1,22 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# Node
+node_modules/
+.pnpm-store/
+
+# Next.js
+rorich-group/.next/
+rorich-group/out/
+
+# Environment
+rorich-group/.env
+rorich-group/.env.local
+rorich-group/.env*.local
+
+# Vercel
+rorich-group/.vercel/
+
+# TypeScript
+rorich-group/tsconfig.tsbuildinfo
